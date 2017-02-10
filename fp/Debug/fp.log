@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\ady\documents\visual studio 2012\projects\fp\fp\source.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+c:\users\ady\documents\visual studio 2012\projects\fp\fp\source.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+c:\users\ady\documents\visual studio 2012\projects\fp\fp\source.cpp(17): warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+c:\users\ady\documents\visual studio 2012\projects\fp\fp\source.cpp(20): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+  fp.vcxproj -> C:\Users\Ady\Documents\Visual Studio 2012\Projects\fp\Debug\fp.exe
